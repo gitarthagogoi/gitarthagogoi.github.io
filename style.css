@@ -8,16 +8,6 @@
   --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #131514;
-    --text: #e7e9e6;
-    --muted: #9aa19d;
-    --line: #2a2e2c;
-    --accent: #7fd1ae;
-  }
-}
-
 * { box-sizing: border-box; }
 
 html { scroll-padding-top: 4.5rem; }
